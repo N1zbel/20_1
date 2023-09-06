@@ -1,0 +1,26 @@
+[
+    {
+        "model": "catalog.category",
+        "pk": 1,
+        "fields": {
+            "name": "Электроника",
+            "description": "Технические устройства"
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 2,
+        "fields": {
+            "name": "Одежда",
+            "description": "Одежда и аксессуары"
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 3,
+        "fields": {
+            "name": "Дом и сад",
+            "description": "Товары для дома и сада"
+        }
+    }
+]

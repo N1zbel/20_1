@@ -1,0 +1,38 @@
+[
+  {
+        "model": "catalog.product",
+        "pk": 1,
+        "fields": {
+            "name": "Продукт 1",
+            "description": "Описание продукта 1",
+            "category": 1,
+            "purchase_price": 40,
+            "date_of_creation": "2023-08-08",
+          "last_modified_date": "2023-08-09"
+        }
+    },
+  {
+        "model": "catalog.product",
+        "pk": 2,
+        "fields": {
+            "name": "Продукт 2",
+            "description": "Описание продукта 2",
+            "category": 2,
+            "purchase_price": 50,
+            "date_of_creation": "2023-07-07",
+          "last_modified_date": "2023-08-07"
+        }
+    },
+  {
+        "model": "catalog.product",
+        "pk": 3,
+        "fields": {
+            "name": "Продукт 3",
+            "description": "Описание продукта 3",
+            "category": 3,
+            "purchase_price": 100,
+            "date_of_creation": "2023-06-06",
+          "last_modified_date": "2023-08-08"
+        }
+    }
+    ]
